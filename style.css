@@ -41,5 +41,6 @@ ol{
 .test6{
     font-style: italic;
     background-color: yellow;
-    color:brown;
+    color:brown; 
+    text-decoration: none;
 }
