@@ -1,0 +1,45 @@
+h1 {
+    color: red;
+}
+
+h2{
+    color:red;
+    font-style: italic;
+}
+
+ol{
+    color:brown;
+}
+
+.test{
+    color:brown;
+
+}
+
+
+.test1{
+    background-color: yellow;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.test3{
+    letter-spacing: 2px;
+    color: brown;
+}
+
+.test4{
+    letter-spacing: 2.5px;
+    color: brown;
+}
+
+.test5{
+    letter-spacing: 2.5px;
+    color:brown;
+}
+
+.test6{
+    font-style: italic;
+    background-color: yellow;
+    color:brown;
+}
